@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Facebook noir
-// @namespace     
+// @namespace     https://github.com/Kaotic/DarkFacebook
 // @version       0.1
 // @description   Facebook en noir
 // @author        Kaotic
